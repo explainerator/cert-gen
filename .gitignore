@@ -27,3 +27,6 @@ target/
 secrets.toml
 *.crt
 *.key
+
+# local artifacts (not for version control)
+novanode-certs.zip

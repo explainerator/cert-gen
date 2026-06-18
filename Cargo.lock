@@ -2178,18 +2178,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "b8848ee67ecc8aedbaf3e4122217aff892639231befc6a1b58d29fff4c2cabaa"
 
 [[patch.unused]]
-name = "auth-service-webapp-client"
-version = "0.1.0"
-
-[[patch.unused]]
-name = "message_client"
-version = "0.1.0"
-
-[[patch.unused]]
-name = "message-protocol"
-version = "0.1.0"
-
-[[patch.unused]]
 name = "message-broker-common"
 version = "0.1.0"
 
@@ -2198,13 +2186,25 @@ name = "config"
 version = "0.1.0"
 
 [[patch.unused]]
-name = "gerns_utilities"
-version = "0.1.0"
-
-[[patch.unused]]
 name = "message_types"
 version = "0.1.0"
 
 [[patch.unused]]
+name = "auth-service-webapp-client"
+version = "0.1.0"
+
+[[patch.unused]]
 name = "telemetry"
+version = "0.1.0"
+
+[[patch.unused]]
+name = "gerns_utilities"
+version = "0.1.0"
+
+[[patch.unused]]
+name = "message-protocol"
+version = "0.1.0"
+
+[[patch.unused]]
+name = "message_client"
 version = "0.1.0"
